@@ -10,22 +10,6 @@ This document provides comprehensive guidelines for AI agents and LLMs working o
 4. [Coding Standards](#coding-standards)
 5. [Documentation](#documentation)
 
-## 🚨🚨🚨 STOP — MANDATORY PRE-CODE CHECKLIST 🚨🚨🚨
-
-> **THIS SECTION MUST BE READ AND FOLLOWED BEFORE WRITING A SINGLE LINE OF CODE.**
-> Skipping this step is not permitted under any circumstance.
-
----
-
-### ❌ YOU ARE NOT ALLOWED TO GENERATE CODE UNTIL YOU HAVE:
-
-1. **Identified** every `/docs` file that is relevant to your current task.
-2. **Opened and fully read** each relevant documentation file using a file-reading tool.
-3. **Confirmed** that you understand the patterns, constraints, and required implementations described in those files.
-4. **Only then** proceeded to write or modify any code.
-
----
-
 ### 🔴 NON-NEGOTIABLE RULES
 
 - **Reading the docs is MANDATORY — not optional, not skippable, not assumable.**

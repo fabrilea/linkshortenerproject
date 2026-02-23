@@ -1,3 +1,7 @@
+---
+description: Read before working on authentication to understand the guidelines for using Clerk in the project.
+---
+
 # Authentication Guidelines
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+description: Read before working on UI components to understand the guidelines for using shadcn/ui in the project.
+---
+
 # UI Components Guidelines
 
 ## Overview

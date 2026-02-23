@@ -57,7 +57,7 @@ export default async function Home() {
   }
 
   return (
-    <main className="flex flex-col items-center">
+    <main className="flex flex-col items-center font-sans">
       {/* Hero */}
       <section className="flex flex-col items-center gap-8 px-6 py-24 text-center max-w-3xl">
         <h1 className="text-5xl font-bold tracking-tight leading-tight">
